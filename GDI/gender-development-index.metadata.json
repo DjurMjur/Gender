@@ -1,0 +1,44 @@
+{
+  "chart": {
+    "title": "Gender Development Index",
+    "subtitle": "The Gender Development Index (GDI) measures gender inequalities in the achievement of key dimensions of human development: a long and healthy life, a good education, and a decent standard of living. Values close to 1 indicate higher gender equality.",
+    "note": "Values below 1 indicate higher human development for men than women, while values above 1 indicate the opposite.",
+    "citation": "UNDP, Human Development Report (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/gender-development-index?time=2020&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "United States",
+      "United Kingdom",
+      "South Korea",
+      "Chile",
+      "China",
+      "Brazil",
+      "India",
+      "Niger",
+      "Nigeria",
+      "Democratic Republic of Congo"
+    ]
+  },
+  "columns": {
+    "Gender Development Index": {
+      "titleShort": "Gender Development Index",
+      "titleLong": "Gender Development Index",
+      "descriptionShort": "The Gender Development Index (GDI) measures gender inequalities in the achievement of key dimensions of human development: a long and healthy life, a good education, and a decent standard of living.",
+      "descriptionKey": [
+        "The Gender Development Index (GDI) measures gender inequalities in achievement in three basic dimensions of human development: health, measured by female and male life expectancy at birth; education, measured by female and male expected years of schooling for children and female and male mean years of schooling for adults ages 25 years and older; and command over economic resources, measured by female and male estimated earned income.",
+        "Values below 1 indicate higher human development for men than women, while values above 1 indicate the opposite. Values close to 1 therefore indicate higher gender equality."
+      ],
+      "descriptionProcessing": "We calculated averages over continents and income groups by taking the population-weighted average of the countries in each group. If less than 80% of countries in an area report data for a given year, we do not calculate the average for that area.",
+      "unit": "",
+      "timespan": "1990-2022",
+      "type": "Numeric",
+      "owidVariableId": 899526,
+      "shortName": "gdi",
+      "lastUpdated": "2024-04-09",
+      "nextUpdate": "2025-04-09",
+      "citationShort": "UNDP, Human Development Report (2024) – with minor processing by Our World in Data",
+      "citationLong": "UNDP, Human Development Report (2024) – with minor processing by Our World in Data. “Gender Development Index” [dataset]. UNDP, Human Development Report, “Human Development Report 2023-2024” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/899526.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-11-19"
+}
